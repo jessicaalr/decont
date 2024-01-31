@@ -1,0 +1,10 @@
+name: linuxavanzado
+channels:
+  - conda-forge
+dependencies:
+  - star
+  - cutadapt
+  - ca-certificates
+  - openssl
+  - seqtk
+prefix: /home/vant/miniforge3/envs/linuxavanzado
